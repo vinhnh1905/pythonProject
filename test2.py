@@ -13,7 +13,7 @@
 # print("average salary: %.2f" % (total/5))
 
 #sentinel value in this example is the nagative input sale value.When user input a negative
-# number. It will terminate the loop. 
+# number. It will terminate the loop.
 total = 0
 sale = float(input("Input sale value: "))
 count = 0
